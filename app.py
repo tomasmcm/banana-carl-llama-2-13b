@@ -2,10 +2,10 @@ from potassium import Potassium, Request, Response
 from transformers import AutoTokenizer
 from auto_gptq import AutoGPTQForCausalLM
 
-MODEL_NAME_OR_PATH = "TheBloke/Llama-2-13B-Ensemble-v6-GPTQ"
+MODEL_NAME_OR_PATH = "TheBloke/Carl-Llama-2-13B-GPTQ"
 DEVICE = "cuda:0"
 
-app = Potassium("Llama-2-13B-Ensemble-v6-GPTQ")
+app = Potassium("Carl-Llama-2-13B-GPTQ")
 
 @app.init
 def init() -> dict:

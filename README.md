@@ -1,8 +1,8 @@
 ![](https://www.banana.dev/lib_zOkYpJoyYVcAamDf/x2p804nk9qvjb1vg.svg?w=340 "Banana.dev")
 
-# Banana.dev Llama-2-13B-Ensemble-v6-GPTQ starter template
+# Banana.dev TheBloke/Carl-Llama-2-13B-GPTQ starter template
 
-This is a Llama-2-13B-Ensemble-v6-GPTQ starter template from [Banana.dev](https://www.banana.dev) that allows on-demand serverless GPU inference.
+This is a TheBloke/Carl-Llama-2-13B-GPTQ starter template from [Banana.dev](https://www.banana.dev) that allows on-demand serverless GPU inference.
 
 You can fork this repository and deploy it on Banana as is, or customize it based on your own needs.
 
@@ -11,7 +11,7 @@ You can fork this repository and deploy it on Banana as is, or customize it base
 
 ## Deploying on Banana.dev
 
-1. [Fork this](https://github.com/yachty66/demo-llama-2-13b-ensemble-v6-gptq/fork) repository to your own Github account.
+1. Fork this repository to your own Github account.
 2. Connect your Github account on Banana.
 3. [Create a new model](https://app.banana.dev/deploy) on Banana from the forked Github repository.
 
